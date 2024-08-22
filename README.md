@@ -33,7 +33,7 @@ We provide the full **ChemLit-QA** dataset and its variants in this repository, 
   <img src="https://github.com/user-attachments/assets/99d462d4-e0b6-41e9-8a7a-5b9ee5fe3b22" width=40% height=40%>
 </p>
 
-## Statistical distribution of metrics
+## Dataset quality as per LLM-based metrics
 | Metric | Mean &pm; std. dev|
 | --- | --- |
 | Answer Relevancy Score (GPT-4o) | 0.99 &pm;  0.02 |
