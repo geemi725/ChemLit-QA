@@ -26,16 +26,18 @@ We provide the full **ChemLit-QA** dataset and its variants in this repository, 
 | SE_penalized | Penalized Semantic Entropy of the question|
 | Keywords | Keywords of the question|
 
+## 
 
-<img src="https://github.com/user-attachments/assets/99d462d4-e0b6-41e9-8a7a-5b9ee5fe3b22" width=50% height=50%>
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/34569ba4-2352-4836-9d45-9ecac487bf8f" width=50% height=50%>
+  <img src="https://github.com/user-attachments/assets/99d462d4-e0b6-41e9-8a7a-5b9ee5fe3b22" width=40% height=40%>
+</p>
 
-Percentage distribution of reasoning types in ChemLit-QA.
-
-<img src="https://github.com/user-attachments/assets/ac596029-6fa5-42af-9c3f-565dae394b8e" width=50% height=50%>
-
-Proportion of difficulty levels in each reasoning type.
-
-<img src="https://github.com/user-attachments/assets/34569ba4-2352-4836-9d45-9ecac487bf8f" width=50% height=50%>
-
-Distribution of topic in ChemLit-QA.
-
+## Statistical distribution of metrics
+| Metric | Mean &pm; std. dev|
+| --- | --- |
+| Answer Relevancy Score (GPT-4o) | 0.99 &pm;  0.02 |
+| Faithfulness Score (GPT-4o) | 0.99 &pm;  0.01 |
+| Hallucination Score (GPT-4o) | 0.0 &pm;  0.0 |
+| Question Faithfulness Score (GPT-4o) | 0.93 &pm;  0.10 |
+| Penalized semantic entropy (GPT-4o) | 0.20 &pm; 0.44 |
