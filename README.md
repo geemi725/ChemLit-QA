@@ -1,7 +1,7 @@
 # ChemLit-QA
 A comprehensive, expert-validated dataset comprising over 1,000 entries specifically designed for the field of chemistry. The dataset was curated by an initial generation and filtering of a QAC dataset using an automated framework based on GPT-4, followed by rigorous evaluation by Chemistry experts. Additionally, we provide two supplementary datasets **ChemLit-QA-neg** focused on negative data, and **ChemLit-QA-multi** focused on multihop reasoning tasks for LLMs, further enhancing the resources available for advanced scientific research.
 
-We provide the full **ChemLit-QA** dataset and its variants in this repository, as well as the exact train-test split of **ChenLit-QA** that was used in the fine-tuning task.
+We provide the full **ChemLit-QA** dataset and its variants in this repository, as well as the exact train-test split of **ChemLit-QA** that was used in the fine-tuning task.
 
 ## Overview
 ![abstract-fig](https://github.com/user-attachments/assets/ecb0fb9a-4200-47c9-bf35-b3a3a1680a9f)
