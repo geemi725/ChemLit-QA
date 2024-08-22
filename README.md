@@ -15,7 +15,7 @@ We provide the full **ChemLit-QA** dataset and its variants in this repository, 
 | Answer | Expert-corrected answer|
 | Difficulty | Expert-assigned difficulty. Includes 3 categories: Easy, Medium, Hard|
 | Context | Expert-corrected context. Contains the **full sentences** that supports the answer.|
-| A_start_end | The start-end indices of the most similar sentences in the chunk|
+| A_start_end | The start-end indices of the answer (most similar sentences) in the chunk|
 | similar_chunks| The top 6 most similar chunks to the given chunk in terms of cosine similarity|
 | Cluster_labels | 2-level hierarchical label describing the topic of this chunk|
 | ID | Identifier of the entry|
