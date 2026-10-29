@@ -1,4 +1,4 @@
-This directory contains 3 contain Question-Answer-Context (QAC) type dataset for RAG and finetuning tasks for Chemistry.
+This directory contains 3 Question-Answer-Context (QAC) type datasets for RAG and finetuning tasks for Chemistry.
 
 1. chemlit_qa_full_dataset.csv: Main dataset, contains 1025 entries evaluated by experts.
 
